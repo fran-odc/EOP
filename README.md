@@ -1,4 +1,7 @@
-# 🧭 Operations & Data Transformation Lead
+# 🧭 Ops & Data Transformation Lead
+
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Profile views](https://views.igorkowalczyk.dev/api/badge/fran-odc?style=flat)
 
 ## About the Role
 
@@ -32,3 +35,15 @@ As **Operations & Data Transformation Lead**, I drove digital and data-based opt
 - **Cloud / Workflow**: Google Drive, Docs, Forms, QR-based registration system
 
 - **Project management**: Notion, Trello, internal CRM, internal PMS
+
+## 🌐 Contact
+
+This repository summarizes my experience.
+All sensitive or proprietary information has been removed.
+💬 Feel free to connect with me via:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveirafrancesca/)
+
+or
+
+[![Email](https://img.shields.io/badge/Email-me%20now!-blue.svg?logo=gmail&logoColor=white)](mailto:fran.odc@pm.me) !
