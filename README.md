@@ -5,7 +5,7 @@
 
 ## About the Role
 
-As **Operations & Data Transformation Lead**, I drove digital and data-based optimization across hospitality operations from July 2021 until June 2025.
+Led operations and data transformation initiatives across **3 hotels in Paris 8th-9th arrondissements** from July 2021 until June 2025.
 
 
 ## 🗂 Key Achievements
